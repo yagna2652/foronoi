@@ -22,7 +22,7 @@ pip install foronoi
 
 First, clone the repository and then install the package.
 ```bash
-git clone https://github.com/Yatoom/foronoi.git
+git clone https://github.com/yagna2652/foronoi.git
 cd foronoi
 python setup.py install
 ```
